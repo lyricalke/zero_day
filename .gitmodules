@@ -1,0 +1,3 @@
+[submodule "0x00-vagrant"]
+	path = 0x00-vagrant
+	url = ./0x00-vagrant
